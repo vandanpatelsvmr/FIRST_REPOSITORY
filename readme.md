@@ -14,4 +14,4 @@ A beginner-friendly AI student assistant project.
 - JavaScript
 
 ## Author
-Your Name
+VANDAN PATEL
