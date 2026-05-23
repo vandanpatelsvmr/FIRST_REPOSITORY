@@ -72,42 +72,6 @@ VANDAN'S FIRST PROJECT is a modern full stack web application built using powerf
 
 ---
 
-# 📂 Project Structure
-
-```bash
-project/
-│
-├── frontend/
-│   ├── src/
-│   ├── components/
-│   └── pages/
-│
-├── backend/
-│   ├── routes/
-│   ├── controllers/
-│   └── models/
-│
-└── README.md
-```
-
----
-
-# ⚙️ Installation
-
-```bash
-npm install
-npm run dev
-```
-
----
-
-# 🔑 Environment Variables
-
-```env
-PORT=5000
-MONGO_URI=your_database_url
-JWT_SECRET=your_secret_key
-```
 
 ---
 
