@@ -1,10 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,20:0077FF,40:7F00FF,60:FF00AA,80:00F7FF,100:00FFD5&height=320&section=header&text=VANDAN%20FIRST%20PROJECT&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Modern%20Full%20Stack%20Application&descAlignY=58&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,20:0077FF,40:7F00FF,60:FF00AA,80:00F7FF,100:00FFD5&height=320&section=header&text=VANDAN'S%20FIRST%20PROJECT&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Modern%20Full%20Stack%20Application&descAlignY=58&descAlign=50"/>
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Welcome+to+Vandan+First+Project;Modern+Interactive+Web+Application;Fast+%7C+Responsive+%7C+Scalable;Built+with+Latest+Technologies;Developed+by+Vandan+Patel" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Welcome+to+Vandan's+First+Project;Modern+Interactive+Web+Application;Fast+%7C+Responsive+%7C+Scalable;Built+with+Latest+Technologies;Developed+by+Vandan+Patel" />
 
 <br><br>
 
@@ -23,7 +23,7 @@
 
 # 🌌 About Project
 
-Vandan First Project is a modern full stack web application built using powerful technologies with focus on performance, scalability, responsiveness, and beautiful UI/UX.
+VANDAN'S FIRST PROJECT is a modern full stack web application built using powerful technologies with focus on performance, scalability, responsiveness, and beautiful UI/UX.
 
 ---
 
